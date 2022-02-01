@@ -11,6 +11,11 @@
 - ⚡ Fun fact:
   - Interests in learning more about **Mathematics and Computing Science**.
 
+### Past Projects
+- [Penn & Fletcher website](https://www.pennandfletcher.com/)
+- [QueensBest.org website](https://www.queensbest.org/)
+- [Queens Tech Council website](https://www.queenstechcouncil.com/)
+
 <!--
 **tonychuaco/tonychuaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
