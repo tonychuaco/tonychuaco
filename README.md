@@ -13,15 +13,15 @@
 
 ### Past Projects
 #### :star: Penn & Fletcher website @[PennAndFletcher.com](https://www.pennandfletcher.com/)
-<kbd><img src="pennandfletcher-desktop.png"></kbd><br>
+<a href="https://www.pennandfletcher.com/" target="_blank" rel="noopener noreferrer"><kbd><img src="pennandfletcher-desktop.png"></kbd></a><br>
 <br>
 
 #### :star: QueensBest.org website @[QueensBest.org](https://www.queensbest.org/)
-<kbd><img src="queensbest-desktop.png"></kbd><br>
+<a href="https://www.queensbest.org/" target="_blank" rel="noopener noreferrer"><kbd><img src="queensbest-desktop.png"></kbd></a><br>
 <br>
 
 #### :star: Queens Tech Council website @[QueensTechCouncil.com](https://www.queenstechcouncil.com/)
-<kbd><img src="queenstechcouncil-desktop.png"></kbd><br>
+<a href="https://www.queenstechcouncil.com/" target="_blank" rel="noopener noreferrer"><kbd><img src="queenstechcouncil-desktop.png"></kbd></a><br>
 <br>
 
 <!--
