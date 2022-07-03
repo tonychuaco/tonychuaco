@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I'm currently working on **completing my Bachelor of Science in Computer Science**.
 - 🌱 I'm currently learning:
-  - **Discrete Mathematics** and **Calculus** at [City University of New York, Queens College](https://www.cs.qc.cuny.edu/index.html);
-  - **C++** on my weekends.
+  - **Calculus** at [City University of New York, Queens College](https://www.cs.qc.cuny.edu/index.html);
+  - **C# and .Net** on my weekends.
 - 🤔 I'm looking for help with **researching Computer Science research areas**.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/tonychuaco/).
